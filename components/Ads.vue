@@ -83,12 +83,12 @@
       <v-card-text>
         <v-btn
           fab
-          style="top: 0px; right: 0px"
+          style="top: 0px; left: 0px"
           color="pink"
           dark
           absolute
           top
-          right
+          left
           x-small
           @click="adsSide = false"
         >
